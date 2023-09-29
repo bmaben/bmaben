@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on practicing Git and GitHub;
+I'm currently learning a lot;
+Fun fact, I am really good at finding four leaf clovers;
