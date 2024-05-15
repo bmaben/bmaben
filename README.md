@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 -->
 ### Basic Info (TLDR):
-   💻 I’m currently working on: **Java/Vue.js**<br/>
-   🌱 I’m currently learning: **Cloud Computing Fundamentals, AWS**<br/>
+   💻 I’m currently working on: **A blog website**<br/>
+   🌱 I’m currently learning: **React**<br/>
    ⚡ Fun fact: **I'm really good at finding four-leaf clovers**<br/>
    ✨ *Full-Stack Development Bootcamp Graduate*
 
